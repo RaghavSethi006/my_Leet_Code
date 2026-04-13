@@ -21,4 +21,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/RaghavSethi006/my_Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/RaghavSethi006/my_Leet_Code/tree/main/1768-merge-strings-alternately/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/RaghavSethi006/my_Leet_Code/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
