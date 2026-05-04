@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RaghavSethi006/my_Leet_Code/tree/main/0001-two-sum/) | Easy |
+| [0605-can-place-flowers](https://github.com/RaghavSethi006/my_Leet_Code/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RaghavSethi006/my_Leet_Code/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/RaghavSethi006/my_Leet_Code/tree/main/1768-merge-strings-alternately/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/RaghavSethi006/my_Leet_Code/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
